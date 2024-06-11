@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "0a3b"
+    },
+    {
+      "id": "100",
+      "title": "cristofer post",
+      "views": 100
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "profesores": [
+    {
+      "nombre": "cristofer",
+      "apellido": "perez",
+      "materia": "fisico-quimica",
+      "id": "ac2d"
+    },
+    {
+      "id": "e436",
+      "nombre": "juan",
+      "apellido": "root",
+      "materia": "matematicas"
+    }
+  ]
+}
